@@ -1,2 +1,2 @@
 # Demo
-This is forst repo
+This is first repo
